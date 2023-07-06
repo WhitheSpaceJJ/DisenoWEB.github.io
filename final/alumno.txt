@@ -1,0 +1,6 @@
+Alumno; José Jesús Orozco Hernández
+ID; 00000229141
+Carrera; Ingenieria en Software
+Semestre; 7
+Curso; Optativa de Acentuacion(Diseño WEB)
+Maestro; Ramon Nuñez Rondón
